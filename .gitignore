@@ -1,0 +1,26 @@
+.allure
+.gradle
+schema
+build
+/*/allure-results/
+out
+.gradletasknamecache
+/*/target/
+#IDEA Files
+.idea/*
+!.idea/vcs.xml
+!.idea/icon.png
+*.iml
+*.ipr
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+*.pydevproject
+
+#Mac OS stuff
+.DS_Store
+
+#Netbeans files
+/.nb-gradle/
