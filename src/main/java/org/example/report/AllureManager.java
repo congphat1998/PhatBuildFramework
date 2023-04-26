@@ -16,7 +16,7 @@ public class AllureManager {
             .put("browser", browser)
             .put("env", env)
             .put("device", "pc").build()
-            , System.getProperty("user.dir") + "/target/allure-results/");
+            , System.getProperty("user.dir") + "/allure-results/");
     }
 
 
