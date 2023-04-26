@@ -12,7 +12,7 @@ out
 !.idea/icon.png
 *.iml
 *.ipr
-
+/allure-results/
 #Eclipse files
 *.settings
 *.classpath
